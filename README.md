@@ -4,6 +4,8 @@
 
 ## The Book
 
+<img align="right" src="http://akamaicovers.oreilly.com/images/0636920052289/cat.gif">
+
 Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.
 
 By using concrete examples, minimal theory, and two production-ready Python frameworks—scikit-learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started.
@@ -27,8 +29,6 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 - Chris Ohk
 
 ## Contents
-
-<img align="right" src="http://akamaicovers.oreilly.com/images/0636920052289/cat.gif">
 
 ### TBA
 
