@@ -26,9 +26,9 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 
 - Chris Ohk
 
-## Contents (Presentation Slides - Korean)
+## Contents
 
-<img align="right" src="http://shop.oreilly.com/product/0636920052289.do">
+<img align="right" src="http://akamaicovers.oreilly.com/images/0636920052289/cat.gif">
 
 ### TBA
 
