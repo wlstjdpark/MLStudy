@@ -40,9 +40,9 @@
 ### 내적 공간
 
 - 를 체 위에 주어진 벡터 공간이라고 하자. 함수 가 임의의 와 에 대해, 다음 조건을 만족하면 를 내적(Inner Product)이라고 한다.
-    - [](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D%5C%7C%5Cge%200)
-    - [](http://latex.codecogs.com/gif.latex?%5C%7C%20c%5Cmathbf%7Bx%7D%5C%7C%3D%7Cc%7C%5C%7C%5Cmathbf%7Bx%7D%5C%7C)
-    - [](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D&plus;%5Cmathbf%7By%7D%5C%7C%5Cle%20%5C%7C%5Cmathbf%7Bx%7D%5C%7C&plus;%5C%7C%5Cmathbf%7By%7D%5C%7C)
+    - ![](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D%5C%7C%5Cge%200)
+    - ![](http://latex.codecogs.com/gif.latex?%5C%7C%20c%5Cmathbf%7Bx%7D%5C%7C%3D%7Cc%7C%5C%7C%5Cmathbf%7Bx%7D%5C%7C)
+    - ![](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D&plus;%5Cmathbf%7By%7D%5C%7C%5Cle%20%5C%7C%5Cmathbf%7Bx%7D%5C%7C&plus;%5C%7C%5Cmathbf%7By%7D%5C%7C)
 - 만약 벡터 공간에 내적이 주어져 있으면, 내적 공간(Inner Product Space)이라고 한다.
 
 ### 치환
