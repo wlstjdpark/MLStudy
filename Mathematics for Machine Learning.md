@@ -5,19 +5,21 @@
 ### 벡터 공간
 
 - 원소를 서로 더하거나, 주어진 배수로 늘이거나 줄일 수 있는 공간이다.
-- 벡터 공간 는 다음을 만족한다.
-    - 덧셈에 대한 항등원 존재 : 에는 특정한 원소 0이 존재해 모든 에 대해
-    - 덧셈에 대한 역원 존재 : 의 임의의 원소 에 대해 을 만족하는 가 존재한다.
-    - 곱셈에 대한 항등원 존재 : 에는 특정한 원소 1이 존재해 모든 에 대해
-    - 교환법칙 성립 : 
-    - 결합법칙 성립 : 
-    - 분패법칙 성립 : 
+- 벡터 공간 ![](http://latex.codecogs.com/gif.latex?V)는 다음을 만족한다.
+    - 덧셈에 대한 항등원 존재 : ![](http://latex.codecogs.com/gif.latex?V)에는 특정한 원소 0이 존재해 모든 ![](http://latex.codecogs.com/gif.latex?v%20%5Cin%20V)에 대해 ![](http://latex.codecogs.com/gif.latex?v%20&plus;%200%20%3D%200%20&plus;%20v%20%3D%20v)
+    - 덧셈에 대한 역원 존재 : ![](http://latex.codecogs.com/gif.latex?V)의 임의의 원소 ![](http://latex.codecogs.com/gif.latex?v)에 대해 ![](http://latex.codecogs.com/gif.latex?v%20&plus;%20u%20%3D%20u%20&plus;%20v%20%3D%200)을 만족하는 ![](http://latex.codecogs.com/gif.latex?u%20%5Cin%20V)가 존재한다.
+    - 곱셈에 대한 항등원 존재 : ![](http://latex.codecogs.com/gif.latex?V)에는 특정한 원소 1이 존재해 모든 ![](http://latex.codecogs.com/gif.latex?v%20%5Cin%20V)에 대해 ![](http://latex.codecogs.com/gif.latex?1%5Ccdot%20v%20%3D%20v%5Ccdot%201%20%3D%20v)
+    - 교환법칙 성립 : ![](http://latex.codecogs.com/gif.latex?%5Cforall%20u%2C%20v%5Cin%20V), ![](http://latex.codecogs.com/gif.latex?u%20&plus;%20v%20%3D%20v%20&plus;%20u)
+    - 결합법칙 성립 : ![](http://latex.codecogs.com/gif.latex?%5Cforall%20u%2C%20v%2C%20w%5Cin%20V), ![](http://latex.codecogs.com/gif.latex?%5Cleft%28%20u%20&plus;%20v%20%5Cright%29%20&plus;%20w%20%3D%20u%20&plus;%20%5Cleft%28%20v%20&plus;%20w%20%5Cright%29)
+    - 분배법칙 성립 : ![](http://latex.codecogs.com/gif.latex?u%2C%20v%5Cin%20V)일 때,
+        - ![](http://latex.codecogs.com/gif.latex?a%5Ccdot%5Cleft%28u&plus;v%5Cright%29%3Da%5Ccdot%20u&plus;a%5Ccdot%20v)
+        - ![](http://latex.codecogs.com/gif.latex?%5Cleft%28a&plus;b%5Cright%29%5Ccdot%20v%3Da%5Ccdot%20v&plus;b%5Ccdot%20v)
 
 #### 유클리드 공간
 
 ### 거리 공간
 
-- ![](http://latex.codecogs.com/gif.latex?%5C%28X%5C%29)를 집합이라 하고 ![](http://latex.codecogs.com/gif.latex?%5C%28d%5C%29)를 ![](http://latex.codecogs.com/gif.latex?X%5Ctimes%20X)에서 0 이상을 갖는 실수의 집합 ![](http://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E&plus;)로의 함수라고 하자. 임의의 ![](http://latex.codecogs.com/gif.latex?x%2Cy%2Cz%5Cin%20X)에 대해, 다음 조건을 만족하면 ![](http://latex.codecogs.com/gif.latex?d%3AX%5Ctimes%20X%5Cto%20%5Cmathbb%7BR%7D%5E&plus;)를 ![](http://latex.codecogs.com/gif.latex?X) 위의 거리(Metric), 또는 거리 함수(Distance Function)라고 한다.
+- ![](http://latex.codecogs.com/gif.latex?X)를 집합이라 하고 ![](http://latex.codecogs.com/gif.latex?d)를 ![](http://latex.codecogs.com/gif.latex?X%5Ctimes%20X)에서 0 이상을 갖는 실수의 집합 ![](http://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E&plus;)로의 함수라고 하자. 임의의 ![](http://latex.codecogs.com/gif.latex?x%2Cy%2Cz%5Cin%20X)에 대해, 다음 조건을 만족하면 ![](http://latex.codecogs.com/gif.latex?d%3AX%5Ctimes%20X%5Cto%20%5Cmathbb%7BR%7D%5E&plus;)를 ![](http://latex.codecogs.com/gif.latex?X) 위의 거리(Metric), 또는 거리 함수(Distance Function)라고 한다.
     - ![](http://latex.codecogs.com/gif.latex?d%28x%2Cy%29%3D0%20%5CLeftrightarrow%20x%3Dy)
     - ![](http://latex.codecogs.com/gif.latex?d%28x%2Cy%29%3Dd%28y%2Cx%29)
     - ![](http://latex.codecogs.com/gif.latex?d%28x%2Cz%29%5Cle%20d%28x%2Cy%29&plus;d%28y%2Cz%29)
