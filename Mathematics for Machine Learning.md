@@ -2,6 +2,14 @@
 
 ## 선형 대수
 
+''V''를 [[체 (수학)|체]] <math>F\;(F=\mathbb{R}\text{ or }\mathbb{C})</math> 위에 주어진 [[벡터공간]]이라고 하자. [[함수 (수학)|함수]] <math>(\cdot,\cdot):V\times V\to F</math>가 임의의 <math>\mathbf{x},\mathbf{y},\mathbf{z}\in V</math>와 <math>c\in F</math>에 대해
+: (1) <math>(\mathbf{x},\mathbf{x})\ge 0</math>
+: (1a) <math>(\mathbf{x},\mathbf{x})=0 \Leftrightarrow \mathbf{x}=0</math>
+: (2) <math>(\mathbf{x}+\mathbf{y},\mathbf{z})=(\mathbf{x},\mathbf{z})+(\mathbf{y},\mathbf{z})</math>
+: (3) <math>(c\mathbf{x},\mathbf{y})=c(\mathbf{x},\mathbf{y})</math>
+: (4) <math>(\mathbf{x},\mathbf{y})=\overline{(\mathbf{y},\mathbf{x})}</math>
+을 만족하면 <math>(\cdot,\cdot)</math>를 '''내적(inner product)'''이라고 한다. 만약 벡터공간에 내적이 주어져 있으면 '''내적공간(inner product space)'''이라고 한다.
+
 ### 벡터 공간
 
 - 원소를 서로 더하거나, 주어진 배수로 늘이거나 줄일 수 있는 공간이다.
@@ -24,9 +32,18 @@
     - Distance는 거리 값을 나타내는 스칼라를 말한다.
     - Metric은 미분기하학적 측면에서 텐서를 말한다.
 
-### 노름(Norm) 공간
+### 노름 공간
+
+- 를 체 위에서 정의된 벡터 공간이라고 하자. 함수 가 임의의 와 임의의 에 대해, 다음 조건을 만족하면 노름(Norm)이라고 한다.
+- 노름이 주어지는 벡터 공간을 노름 공간(Norm Space)이라고 한다.
 
 ### 내적 공간
+
+- 를 체 위에 주어진 벡터 공간이라고 하자. 함수 가 임의의 와 에 대해, 다음 조건을 만족하면 를 내적(Inner Product)이라고 한다.
+    - [](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D%5C%7C%5Cge%200)
+    - [](http://latex.codecogs.com/gif.latex?%5C%7C%20c%5Cmathbf%7Bx%7D%5C%7C%3D%7Cc%7C%5C%7C%5Cmathbf%7Bx%7D%5C%7C)
+    - [](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D&plus;%5Cmathbf%7By%7D%5C%7C%5Cle%20%5C%7C%5Cmathbf%7Bx%7D%5C%7C&plus;%5C%7C%5Cmathbf%7By%7D%5C%7C)
+- 만약 벡터 공간에 내적이 주어져 있으면, 내적 공간(Inner Product Space)이라고 한다.
 
 ### 치환
 
