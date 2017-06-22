@@ -164,8 +164,6 @@ By using concrete examples, minimal theory, and two production-ready Python fram
     - Learning to Play Ms. Pac-Man Using Deep Q-Learning
     - Exercises
 
-### TBA
-
 ## License
 
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
