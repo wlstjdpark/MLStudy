@@ -39,8 +39,9 @@
 
 ### 내적 공간
 
-- 를 체 위에 주어진 벡터 공간이라고 하자. 함수 가 임의의 와 에 대해, 다음 조건을 만족하면 를 내적(Inner Product)이라고 한다.
+- ![](http://latex.codecogs.com/gif.latex?V)를 체 ![](http://latex.codecogs.com/gif.latex?F%5C%3B%28F%3D%5Cmathbb%7BR%7D%5Ctext%7B%20or%20%7D%5Cmathbb%7BC%7D%29) 위에 주어진 벡터 공간이라고 하자. 함수 ![](http://latex.codecogs.com/gif.latex?%28%5Ccdot%2C%5Ccdot%29%3AV%5Ctimes%20V%5Cto%20F)가 임의의 ![](http://latex.codecogs.com/gif.latex?%5Cmathbf%7Bx%7D%2C%5Cmathbf%7By%7D%2C%5Cmathbf%7Bz%7D%5Cin%20V)와 ![](http://latex.codecogs.com/gif.latex?c%5Cin%20F)에 대해, 다음 조건을 만족하면 ![](http://latex.codecogs.com/gif.latex?%28%5Ccdot%2C%5Ccdot%29)를 내적(Inner Product)이라고 한다.
     - ![](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D%5C%7C%5Cge%200)
+        - ![](http://latex.codecogs.com/gif.latex?%28%5Cmathbf%7Bx%7D%2C%5Cmathbf%7Bx%7D%29%3D0%20%5CLeftrightarrow%20%5Cmathbf%7Bx%7D%3D0)
     - ![](http://latex.codecogs.com/gif.latex?%5C%7C%20c%5Cmathbf%7Bx%7D%5C%7C%3D%7Cc%7C%5C%7C%5Cmathbf%7Bx%7D%5C%7C)
     - ![](http://latex.codecogs.com/gif.latex?%5C%7C%5Cmathbf%7Bx%7D&plus;%5Cmathbf%7By%7D%5C%7C%5Cle%20%5C%7C%5Cmathbf%7Bx%7D%5C%7C&plus;%5C%7C%5Cmathbf%7By%7D%5C%7C)
 - 만약 벡터 공간에 내적이 주어져 있으면, 내적 공간(Inner Product Space)이라고 한다.
