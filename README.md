@@ -24,6 +24,23 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 - Scientific Python – We will be using a few popular python libraries, in particular NumPy, matplotlib and pandas. If you are not familiar with these libraries, you should probably start by going through the tutorials in the Tools section (especially NumPy).
 - Math – We will also use some notions of Linear Algebra, Calculus, Statistics and Probability theory. You should be able to follow along if you learned these in the past as it won't be very advanced, but if you don't know about these topics or you need a refresher then go through the appropriate introduction in the Math section.
 
+## Install
+
+### Install packages from Windows (64-bit)
+
+1. Install [Python 3.6.2](https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64-webinstall.exe)
+
+2. Visit [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+3. Install [Numpy+MKL](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy) package
+    - When install, use instruction ```pip install [.whl file]```
+
+5. Install [Microsoft Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587)
+
+6. Install [SciPy](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy) package
+
+7. Install [scikit-learn](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn), [matplotlib](http://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib), and [pandas](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pandas) packages
+
 ## Contents
 
 - Mathematics for Machine Learning
