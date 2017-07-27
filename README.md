@@ -28,7 +28,7 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 
 ### Install packages from Windows (64-bit)
 
-1. Install [Python 3.6.2](https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64-webinstall.exe)
+1. Install [Python 3.6.2](https://www.python.org/ftp/python/3.6.2/python-3.6.2-amd64-webinstall.exe)
 
 2. Visit [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
