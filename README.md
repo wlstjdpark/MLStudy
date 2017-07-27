@@ -44,7 +44,7 @@ By using concrete examples, minimal theory, and two production-ready Python fram
 ## Contents
 
 - Mathematics for Machine Learning
-- Chapter 1: The Machine Learning Landscape
+[- Chapter 1: The Machine Learning Landscape](https://github.com/utilForever/MLStudy/blob/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape.md)
     - What Is Machine Learning?
     - Why Use Machine Learning?
     - Types of Machine Learning Systems
